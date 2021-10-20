@@ -40,7 +40,13 @@ HTTP/1.1相較於HTTP/1.0協定的區別主要體現在：
 - 5xx伺服器錯誤——伺服器在處理某個正確請求時發生錯誤
 - 雖然 RFC 2616 中已經推薦了描述狀態的短語，例如"200 OK"，"404 Not Found"，但是WEB開發者仍然能夠自行決定採用何種短語，用以顯示在地化的狀態描述或者自訂訊息。
 
+### [HTTP請求]
 ![http](HTTP_Request.png)
+- CRLF refers to the special character elements "Carriage Return" and "Line Feed."
+- These elements are embedded in HTTP headers and other software code to signify an End of Line (EOL) marker.
+- Many internet protocols, including MIME (e-mail), NNTP (newsgroups) and, more importantly, HTTP, use CRLF sequences to split text streams into discrete elements.
+- Web application developers split HTTP and other headers based on where CRLF is located.
+- CRLF injection attack ==> Exploits occur when an attacker is able to inject a CRLF sequence into an HTTP stream.
 ### [請求方法]
 |方法 | 說明 |
 | -------|  -------|
