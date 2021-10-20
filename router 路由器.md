@@ -3,11 +3,11 @@
 ### [router 路由器] (https://zh.wikipedia.org/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8)
 - 一對（中文：鄰居，感應路徑器）是一種電訊網裝置，提供傳輸轉送兩種重要機制的互聯網傳輸，工作在OSI模型的"第三層"——即網路層，例如網際大道層
 
-### [repeart 中繼器](https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BB%A7%E5%99%A8)
+### [repeart 中繼器] (https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BB%A7%E5%99%A8)
 - 中繼器是用來'加強纜線上的訊號'，把訊號送得更遠,訊號強度會隨著傳遞長度的增加而遞減。因此需要中繼器將訊號重新加強以增加資料的傳送距離。
 Netgear
 
-### [Hub集線器](https://zh.wikipedia.org/wiki/%E9%9B%86%E7%B7%9A%E5%99%A8)
+### [Hub集線器] (https://zh.wikipedia.org/wiki/%E9%9B%86%E7%B7%9A%E5%99%A8)
 - 集線器（Ethernet hub）是指將多條乙太網路雙絞線或光纖集合連接在同一段物理媒介下的裝置。集線器是運作在OSI模型中的實體層[1]，可以讓其連結的裝置工作在同一網段。集線器上有多個I/O埠，訊號從任意一個埠進入後，會從其他埠出現。
 
 ### []
